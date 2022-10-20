@@ -93,7 +93,6 @@ for i in range(len(key)):
         minlen = len(std_dict[key[i]])
         minlist = std_dict[key[i]]
         minkey = key[i]
-print(minlist)
 flag = 1
 for i in range(len(minlist)):
     for j in range(len(key)):

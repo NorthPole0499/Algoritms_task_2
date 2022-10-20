@@ -14,4 +14,4 @@ while left <= right:
     else:
         right = center - 1
 
-print(count)
+print('Количество шагов для поиска:', count)
